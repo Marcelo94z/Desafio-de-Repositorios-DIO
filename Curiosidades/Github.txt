@@ -1,0 +1,3 @@
+Utilizando GitHubDesktop
+
+Utilizar [ ] e ( ) pode-se colocar um texto entre [ ] e um link entre ( ), o link ficará oculto, porém o texto digitado servirá de link.
